@@ -13,3 +13,6 @@ Time-Shifted Analysis: Examining how correlations change over time.
 Python: For data processing and analysis.
 Pandas & NumPy: For data handling and numerical operations.
 Matplotlib & Seaborn: For creating visualizations.
+## Results
+The analysis provides insights into the relationships between the selected economic variables, with a focus on identifying patterns and potential time-lagged effects.
+
