@@ -3,6 +3,8 @@
 **Overview:**
 The Social Buzz dashboard provides a comprehensive analysis of social media content creation across various categories, types, and reaction metrics. 
 This analysis helps in understanding content distribution and audience engagement.
+### Tools Used:
+ I utilized Excel for data cleaning and Power BI for data visualization.
 
 **Key Performance Indicators (KPIs):**
 - **Total Content Analyzed:** 12,935 pieces of content across multiple categories.
@@ -25,17 +27,17 @@ The dashboard highlights key areas of content that resonate most with audiences,
 providing a basis for optimizing future content strategies towards more engaging formats and categories.
 
 ## Recommendations
- Content Strategy: 
-
+ - Content Strategy: 
 Focus on high-engagement categories such as Animals and Science by creating more diversified content within these themes.
 Optimize content formats by combining popular formats like Photos and Videos.
 
- Content Distribution: 
-
+ - Content Distribution: 
 Maintain a balanced content mix across various categories to cater to a wider audience.
 Use data-driven insights to guide the editorial calendar, prioritizing content that historically generates high engagement.
 
 
-
 ![Social Buzz](https://github.com/user-attachments/assets/7c06946a-ba1c-4a50-979c-aea15dee5102)
+
+### Dataset Reference
+Social Buzz:(https://drive.google.com/file/d/1W7OyCMSdtplQpG7B8TWUN8o-qGsCEz1K/view?usp=sharing)
 
