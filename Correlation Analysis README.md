@@ -15,4 +15,10 @@ Pandas & NumPy: For data handling and numerical operations.
 Matplotlib & Seaborn: For creating visualizations.
 ## Results
 The analysis provides insights into the relationships between the selected economic variables, with a focus on identifying patterns and potential time-lagged effects.
+- View for more detailed report(https://docs.google.com/document/d/1x_1LFefOIr6W1O-g5-uUf2A977J-lnvbKRS2E7uDdn8/edit?usp=sharing) 
+
+
+## Dataset Reference
+Data:(https://docs.google.com/spreadsheets/d/11kU-HB4we0qvESA7JJtxY2s5XCluUE6S/edit?usp=sharing&ouid=112500845472546735853&rtpof=true&sd=true)
+
 
