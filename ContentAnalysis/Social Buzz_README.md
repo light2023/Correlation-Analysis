@@ -34,6 +34,7 @@ Optimize content formats by combining popular formats like Photos and Videos.
  - Content Distribution: 
 Maintain a balanced content mix across various categories to cater to a wider audience.
 Use data-driven insights to guide the editorial calendar, prioritizing content that historically generates high engagement.
+## Data Visiualization
 
 
 ![Social Buzz](https://github.com/user-attachments/assets/7c06946a-ba1c-4a50-979c-aea15dee5102)
