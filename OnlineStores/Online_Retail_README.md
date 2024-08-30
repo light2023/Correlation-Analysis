@@ -34,6 +34,8 @@ Focus on top-performing countries like EIRE and Germany with tailored promotions
 Analyze customer behavior to optimize inventory management, ensuring that top-selling products are always in stock.
 Adjust the product mix based on revenue insights to better cater to high-value customers and regions.
 
+### Data Visualization
+
 ![OnlineRetail Stores](https://github.com/user-attachments/assets/a2eba0d6-dc6e-4e16-9df4-6764a5e7662b)
 
 
