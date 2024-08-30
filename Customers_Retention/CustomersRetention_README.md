@@ -61,6 +61,9 @@ Bundling Services for Increased Value:
 ### 7. Conclusion
 This dashboard provides a clear view of customer retention metrics and highlights areas where improvements can be made.
 By focusing on the KPIs, PWC can devise strategies to enhance customer satisfaction, reduce churn, and ultimately increase profitability.
+
+### Data Visiualization
+
 ![Customer Retention](https://github.com/user-attachments/assets/e0e71712-b5f9-4325-94c6-4347f72acaf2)
 
 
