@@ -1,4 +1,4 @@
-## 1. Social Buzz Dashboard Report
+##  Social Buzz Dashboard Report
 
 **Overview:**
 The Social Buzz dashboard provides a comprehensive analysis of social media content creation across various categories, types, and reaction metrics. 
