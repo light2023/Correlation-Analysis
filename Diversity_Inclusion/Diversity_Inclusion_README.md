@@ -72,6 +72,7 @@ Implement region-specific diversity programs to cater to the diverse cultural ba
 ### 9. Conclusion
 The analysis of PwC's diversity and inclusion metrics highlights that while there is balanced promotion across genders,hiring practices could be improved to achieve greater gender diversity. 
 Additionally, addressing the higher turnover rate among men and supporting women'sleadership development will further enhance PwC's commitment to an inclusive work environment.
+### Data Visualization
 
  ![power Bi](https://github.com/user-attachments/assets/390f757b-1be4-41f5-9c45-94d5f5a7fc67)
 
